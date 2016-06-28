@@ -1,0 +1,205 @@
+﻿[
+  {
+    "BusinessPlan": "Accident and Health",
+    "TotalSlips": 30,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Airlines and GA",
+    "TotalSlips": 194,
+    "SlipsChecked": 14,
+    "SlipPassRate": 100,
+    "SoxPassRate": 92.9,
+    "FieldErrorRate": 99.7,
+    "SoxFieldErrorRate": 99
+  },
+  {
+    "BusinessPlan": "Aviation Treaty",
+    "TotalSlips": 19,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Cargo",
+    "TotalSlips": 149,
+    "SlipsChecked": 21,
+    "SlipPassRate": 95.2,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 99.8,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Construction",
+    "TotalSlips": 27,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 80,
+    "FieldErrorRate": 99.2,
+    "SoxFieldErrorRate": 97.1
+  },
+  {
+    "BusinessPlan": "Contingency",
+    "TotalSlips": 29,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Downstream Energy and Power Int",
+    "TotalSlips": 42,
+    "SlipsChecked": 8,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Downstream Energy and Power NA",
+    "TotalSlips": 13,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Financial Lines",
+    "TotalSlips": 127,
+    "SlipsChecked": 14,
+    "SlipPassRate": 85.7,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 99.4,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Marine and Aviation War",
+    "TotalSlips": 67,
+    "SlipsChecked": 7,
+    "SlipPassRate": 85.7,
+    "SoxPassRate": 85.7,
+    "FieldErrorRate": 96,
+    "SoxFieldErrorRate": 87.8
+  },
+  {
+    "BusinessPlan": "Marine and Energy Liability",
+    "TotalSlips": 75,
+    "SlipsChecked": 8,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Marine and Other Treaty",
+    "TotalSlips": 16,
+    "SlipsChecked": 4,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Marine Hull",
+    "TotalSlips": 78,
+    "SlipsChecked": 9,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Political Risk",
+    "TotalSlips": 50,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Political Violence",
+    "TotalSlips": 191,
+    "SlipsChecked": 22,
+    "SlipPassRate": 95.5,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 99.8,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Products and Airports",
+    "TotalSlips": 44,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Property Binders and Lineslips",
+    "TotalSlips": 9,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Property Fac Int",
+    "TotalSlips": 106,
+    "SlipsChecked": 14,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Property Fac NA",
+    "TotalSlips": 53,
+    "SlipsChecked": 7,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Property Treaty",
+    "TotalSlips": 41,
+    "SlipsChecked": 6,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Uncoded Property",
+    "TotalSlips": 1,
+    "SlipsChecked": 0
+  },
+  {
+    "BusinessPlan": "Upstream Energy",
+    "TotalSlips": 34,
+    "SlipsChecked": 5,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  },
+  {
+    "BusinessPlan": "Yachts",
+    "TotalSlips": 8,
+    "SlipsChecked": 3,
+    "SlipPassRate": 100,
+    "SoxPassRate": 100,
+    "FieldErrorRate": 100,
+    "SoxFieldErrorRate": 100
+  }
+]

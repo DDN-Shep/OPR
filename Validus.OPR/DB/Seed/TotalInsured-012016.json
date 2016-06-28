@@ -1,0 +1,106 @@
+﻿[
+  {
+    "Class": "Cargo",
+    "Total": 71,
+    "TotalChecked": 15,
+    "TotalErrors": 0,
+    "TotalCorrect": 15,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Construction",
+    "Total": 36,
+    "TotalChecked": 21,
+    "TotalErrors": 0,
+    "TotalCorrect": 21,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Downstream Energy and Power Int",
+    "Total": 21,
+    "TotalChecked": 21,
+    "TotalErrors": 0,
+    "TotalCorrect": 21,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Downstream Energy and Power NA",
+    "Total": 12,
+    "TotalChecked": 12,
+    "TotalErrors": 0,
+    "TotalCorrect": 12,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Marine and Aviation War",
+    "Total": 43,
+    "TotalChecked": 20,
+    "TotalErrors": 0,
+    "TotalCorrect": 20,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Marine and Other Treaty",
+    "Total": 1,
+    "TotalChecked": 1,
+    "TotalErrors": 0,
+    "TotalCorrect": 1,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Marine Hull",
+    "Total": 7,
+    "TotalChecked": 7,
+    "TotalErrors": 0,
+    "TotalCorrect": 7,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Political Violence",
+    "Total": 202,
+    "TotalChecked": 39,
+    "TotalErrors": 0,
+    "TotalCorrect": 39,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Property Fac Int",
+    "Total": 104,
+    "TotalChecked": 15,
+    "TotalErrors": 1,
+    "TotalCorrect": 14,
+    "SuccessRate": 93.30
+  },
+  {
+    "Class": "Property Fac NA",
+    "Total": 67,
+    "TotalChecked": 15,
+    "TotalErrors": 0,
+    "TotalCorrect": 15,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Property Treaty",
+    "Total": 102,
+    "TotalChecked": 31,
+    "TotalErrors": 0,
+    "TotalCorrect": 31,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Upstream Energy",
+    "Total": 3,
+    "TotalChecked": 3,
+    "TotalErrors": 0,
+    "TotalCorrect": 3,
+    "SuccessRate": 100
+  },
+  {
+    "Class": "Grand Total",
+    "Total": 669,
+    "TotalChecked": 200,
+    "TotalErrors": 1,
+    "TotalCorrect": 199,
+    "SuccessRate": 99.50
+  }
+]

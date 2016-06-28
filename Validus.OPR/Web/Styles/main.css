@@ -1,0 +1,56 @@
+﻿body {
+    font-size: 12px;
+    color: #002E5F;
+}
+
+.container .jumbotron {
+    padding: 2em 4em;
+    text-align: right;
+}
+
+svg {
+    width: 20em;
+}
+
+svg #svg-logo-bg-colour {
+    fill: #eee;
+}
+
+form blockquote > [contenteditable] {
+    font-size: 0.8em;
+    white-space: pre-line;
+    outline: none;
+    min-height: 1em;
+    margin: 0 0 10px;
+}
+
+form blockquote [contenteditable]:last-child {
+    margin-bottom: 0;
+}
+
+form blockquote > [contenteditable] + footer:after {
+    display: inline;
+    content: attr(createdby) ', ' attr(createdon);
+}
+
+/*form blockquote > [contenteditable]:empty + footer:after,*/
+form blockquote > [contenteditable].empty + footer:after {
+    content: 'No comment';
+}
+
+/*form blockquote > [contenteditable]:focus + footer:after,*/
+form.changed blockquote > [contenteditable] + footer:after {
+    content: 'Save to commit changes';
+}
+
+form legend > abbr {
+    font-size: .6em;
+}
+
+form .btn {
+    display: none;
+}
+
+form.changed .btn {
+    display: inline-block;
+}
